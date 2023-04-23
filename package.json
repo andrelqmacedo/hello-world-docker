@@ -1,0 +1,12 @@
+{
+    "name": "hello-sistemas-para-internet",
+    "version": "1.0.0",
+    "description": "Hello Sistemas para Internet - P3 - Noite. A melhor turma.",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
